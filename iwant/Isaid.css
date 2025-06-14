@@ -1,0 +1,32 @@
+#aaa{
+    background-color:red ;
+}
+.zzz{
+    background-color:rgb(255, 166, 0) ;
+}
+#qqq{
+    color:green;
+}
+.ddd{
+    color:yellow;
+}
+a.link{
+    background-color: #48cae4c5;
+    color: black ;
+    font-size:20px;
+}
+a{
+    color: #ffffff;
+    font-size:20px;
+}
+a:hover.link{
+    background-color: black;
+    color: #48cae4 ;
+    font-size:20px;
+}
+body{
+    background-color: #2d2d2d;}
+select,p,table,h1{
+    color: aqua;
+    background-color: #3d3d3d;
+}

@@ -1,0 +1,27 @@
+.pow{
+width: 100%;
+display: flex;
+overflow: hidden;
+}
+.card{
+margin: 10px;
+flex-shrink: 0;
+display: block;
+}
+h2{
+    background-color: #24899e;
+    color: black ;
+    width:90px; 
+}
+a{
+    background-color: #48cae4c5;
+    color: black ;
+    font-size:20px;
+}
+a:hover.link{
+    background-color: black;
+    color: #48cae4 ;
+    font-size:20px;
+}
+body{
+    background-color: #2d2d2d;}
